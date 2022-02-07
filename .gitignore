@@ -1,0 +1,18 @@
+#Visual Studio files
+*.suo
+*.user
+obj/
+[Bb]in
+
+#NuGet
+packages/
+
+#Settings
+VaftExamples.Net.sln.DotSettings.user
+VaftExamples.Net/VaftExamples.Net.csproj.DotSettings
+/.vs/VaftExamples.Net/v15/sqlite3/storage.ide
+/.idea/.idea.VaftExamples.Net
+.vs/
+API-test-automation/API/APITests/ApiIntegrationTests.cs
+
+.idea
